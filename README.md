@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">Built a responsive Spotify-inspired music player with an intuitive and user-friendly interface. • Implemented core functionalities including play/pause controls, track navigation.</h3>
+<h3 align="center">Built a responsive Spotify-inspired music player with an intuitive and user-friendly interface. • Implemented core functionalities including play/pause controls, track navigation and more.</h3>
 
 - 🔭 I’m currently working on **Spotify-Clone**
 
